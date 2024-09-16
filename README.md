@@ -1,7 +1,7 @@
 # AI(인공지능)활용 핀테크서비스 개발자 양성과정 육성
 
 - 총 시수 : 860시간
-- [훈련생 LMS 로그인]()
+- [훈련생 LMS 로그인](https://koritic.cafe24.com/student/index.php)
 - [강의동영상](https://drive.google.com/drive/folders/149OcwOXJCyntLGngQOzpeHk4R1w2eRPr?usp=drive_link)
 
 ## 1. 형상관리
