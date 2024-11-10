@@ -172,7 +172,7 @@
 ## 9. 핀테크 머신러닝과 딥러닝 이해(120)
 
 - [강의동영상](https://drive.google.com/drive/folders/19jNr0_C6alsX5AZxaiIKr7L0b9SIElx_?usp=drive_link)
-- [강의자료]()
+- [강의자료](https://github.com/yonggyo1125/lecture_ml-dl)
 - 핀테크 머신러닝 이해
 - 핀테크 딥러닝 이해
 - 핀테크 추천시스템 이해
