@@ -174,7 +174,14 @@
 - [강의동영상](https://drive.google.com/drive/folders/19jNr0_C6alsX5AZxaiIKr7L0b9SIElx_?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_ml-dl)
 - 핀테크 머신러닝 이해
+  - [01 나의 첫 머신러닝](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/01.%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+  - [02 데이터 다루기](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+  - [03 회귀 알고리즘과 모델 규제](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/03.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C)
+  - [04 다양한 분류 알고리즘](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/04.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - 핀테크 딥러닝 이해
+  - [07-1 인공신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4/07-1.%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
+  - [07-2 심층신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4/07-2.%20%EC%8B%AC%EC%B8%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
+  - [07-3 신경망 모델 훈련](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4/07-3.%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%AA%A8%EB%8D%B8%20%ED%9B%88%EB%A0%A8)
 - 핀테크 추천시스템 이해
 
 ## 10. 핀테크 대체데이터분석(자연어처리) (80)
