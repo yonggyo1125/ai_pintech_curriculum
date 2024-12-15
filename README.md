@@ -187,9 +187,12 @@
 ## 10. 핀테크 대체데이터분석(자연어처리) (80)
 
 - [강의동영상](https://drive.google.com/drive/folders/1Rgci5aVVZUI01dhpSh4gTXPFl7h1wrts?usp=drive_link)
-- [강의자료]()
-- 통계 기반 자연어처리
-- 딥러닝 기반 자연어처리
+- [강의자료](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC)
+- [01 자연어 처리란?](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/01.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EB%9E%80%3F)
+- [02 자연어 처리를 위한 기초지식](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/02.%20%EC%9E%90%EC%96%B8%EC%96%B4%20%EC%B2%98%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D)
+- [03 언어 모델](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/03.%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Language%20Modeling))
+- [07 BERT - BERT의 원리와 기본사용법](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/07.%20BERT%20-%20BERT%EC%9D%98%20%EC%9B%90%EB%A6%AC%EC%99%80%20%EA%B8%B0%EB%B3%B8%EC%82%AC%EC%9A%A9%EB%B2%95)
+  
 
 ## 11. 금융 OpenAPI 활용 (48)
 
