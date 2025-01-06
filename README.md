@@ -210,6 +210,11 @@
 
 - [강의동영상](https://drive.google.com/drive/folders/1ea2shyNsdspnb4BnlRxpWdEWB6rxjM2Z?usp=drive_link)
 
+## 보충학습 - 타입스크립트
+
+- [강의동영상]()
+- [강의자료](https://github.com/yonggyo1125/lecture_typescript)
+
 ## 보충학습 - 리액트
 
 - [강의동영상](https://drive.google.com/drive/folders/1cO46KHCMgPGbU3ycK3VfsJnwyJq_k_Cz?usp=drive_link)
