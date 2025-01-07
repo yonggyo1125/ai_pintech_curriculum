@@ -198,9 +198,7 @@
 
 - [강의동영상](https://drive.google.com/drive/folders/1eTtnxPCYNZrRtpgO2-zb4lv2Fy_0yTDi?usp=drive_link)
 - [금융결제원 오픈 API](https://developers.kftc.or.kr/dev)
-
-- 지급결제기능 구현
-- 자산관리기능 구현
+- 카카오 로그인 구현
 
 ## 12. 프로젝트Ⅰ - 클론코딩 (64)
 
