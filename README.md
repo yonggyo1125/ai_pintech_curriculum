@@ -156,17 +156,18 @@
 ### 교재: Do it! 점프투 파이썬 / 이지스퍼블리싱
 
 - [강의자료](https://github.com/yonggyo1125/lecture_python)
-- [강의동영상](https://drive.google.com/drive/folders/1oS-_IMglcKn-N4HLa15jJceg0TV9F0Ru?usp=drive_link)
-- 01 파이썬이란 무엇인가?
-- [02 파이썬 프로그래밍의 기초, 자료형](https://github.com/yonggyo1125/lecture_python/tree/master/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88/2.%20%EC%9E%90%EB%A3%8C%ED%98%95)
-- [03 프로그램의 구조를 쌓다는다! 제어문](https://github.com/yonggyo1125/lecture_python/tree/master/2.%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
-- [04 파이썬의 입출력](https://github.com/yonggyo1125/lecture_python/tree/master/3.%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
-- [05 파이썬 날개 달기](https://github.com/yonggyo1125/lecture_python/tree/master/4.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0)
-- [06 정규표현식](https://github.com/yonggyo1125/lecture_python/tree/master/6.%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D)
+- [강의동영상]()
+- [01 파이썬 프로그래밍의 기초, 자료형](https://github.com/yonggyo1125/lecture_python/tree/master/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88/2.%20%EC%9E%90%EB%A3%8C%ED%98%95)
+- [02 프로그램의 구조를 쌓다는다! 제어문](https://github.com/yonggyo1125/lecture_python/tree/master/2.%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
+- [03 파이썬의 입출력](https://github.com/yonggyo1125/lecture_python/tree/master/3.%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
+- [04 파이썬 날개 달기](https://github.com/yonggyo1125/lecture_python/tree/master/4.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EA%B0%9C%20%EB%8B%AC%EA%B8%B0)
+- [05 파이썬 날아오르기](https://github.com/yonggyo1125/lecture_python/tree/master/5.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%82%A0%EC%95%84%EC%98%A4%EB%A5%B4%EA%B8%B0) 
+- [07 정규표현식](https://github.com/yonggyo1125/lecture_python/tree/master/6.%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D)
+- [08 웹크롤링](https://github.com/yonggyo1125/lecture_python/tree/master/7.%20%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81)
 
 ## 9. 핀테크 머신러닝과 딥러닝 이해(120)
 
-- [강의동영상](https://drive.google.com/drive/folders/19jNr0_C6alsX5AZxaiIKr7L0b9SIElx_?usp=drive_link)
+- [강의동영상]()
 - [강의자료](https://github.com/yonggyo1125/lecture_ml-dl)
 - [강의동영상](https://drive.google.com/drive/folders/1Sk2p9vRqpUGjqZfKCWfT2Po4cxRjv1wN?usp=drive_link)
 - [01 나의 첫 머신러닝](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/01.%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
@@ -213,10 +214,8 @@
 ## 보충학습 - 리액트
 
 - [강의동영상]()
-
-- 리액트 기초
 - [강의자료](https://github.com/yonggyo1125/reactLecture)
-- [강의동영상](https://drive.google.com/drive/folders/1KIBYhCXbz3IQLrVgSRtrXssV9qxTEoPk?usp=drive_link)
+  
 - [01 리액트 시작](https://github.com/yonggyo1125/reactLecture/tree/master/0.%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8B%9C%EC%9E%91)
 - [02 JSX](https://github.com/yonggyo1125/reactLecture/tree/master/1.%20JSX)
 - [03 컴포넌트](https://github.com/yonggyo1125/reactLecture/tree/master/2.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
