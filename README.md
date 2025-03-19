@@ -197,7 +197,7 @@
 - [07 사전학습 모델]()
 
 ## 11. 금융 OpenAPI 활용 (48)
-> 금융 OpenAPI는 금융감독원의 승인이 필요하지만 핀테크 관련 사업을 한다는 증빙 및 사업자 등록이 필요한 제한된 API이므로 진행이 불가하여 대체 수업이 진행됩니다. REST에 및 토큰 인증 방식에 대한 심화 과정이 진행됩니다.
+> 금융 OpenAPI는 금융감독원의 승인이 필요하며 핀테크 관련 사업을 한다는 증빙 및 사업자 등록이 필요한 제한된 API이므로 진행이 불가하여 대체 수업이 진행됩니다. REST에 및 토큰 인증 방식에 대한 심화 과정이 진행됩니다.
 
 - [강의동영상](https://drive.google.com/drive/folders/1ou9wYZZ4csQFW8avjJLkROKQaKUK1fOo?usp=drive_link)
 - REST API
