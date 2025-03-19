@@ -206,7 +206,7 @@
 - [강의동영상](https://drive.google.com/drive/folders/1msjaBwqxZYOt1h0vh0EhX_HpKqDFD9aD?usp=drive_link)
 
 ## 13. 프로젝트Ⅱ - 카드상품 추천시스템 구현(200시간)
-> AI관련 프로젝트의 주제는 다양하게 나올 수 있으므로 카드 추천 시스템으로 한정하지 않고 다양한 주제로 진행합니다.<br>오전 일과에는 보충학습으로 수업이 진행될수 있습니다. 1. 젠킨스, AWS 활용 CI/CD 구축<br>2. 스프링 클라우드<br>3. DJANGO REST FRAMEWORK<br>오후 일과는 프로젝트 진행
+> AI관련 프로젝트의 주제는 다양하게 나올 수 있으므로 카드 추천 시스템으로 한정하지 않고 다양한 주제로 진행합니다.<br>오전 일과에는 보충학습으로 수업이 진행될수 있습니다.<br>1. 젠킨스, AWS 활용 CI/CD 구축<br>2. 스프링 클라우드<br>3. DJANGO REST FRAMEWORK<br>오후 일과는 프로젝트 진행
 
 - [강의동영상](https://drive.google.com/drive/folders/1BvHv4dChdj7wdhXxd6DM0vD12IT4mn_K?usp=drive_link)
 
