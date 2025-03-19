@@ -2,7 +2,7 @@
 
 - 총 시수 : 860시간
 - [훈련생 LMS 로그인](https://koritic.cafe24.com/student/index.php)
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1H0vnnEp_kjvNrkkEdvLnNPeQaFMlKeVA?usp=sharing)
 - 강사이메일 : yonggyo00@kakao.com
 
 ## 1. 사전교육
@@ -13,24 +13,24 @@
 
 ### 형상관리
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1i-abUxJ0lmbQVZtdtmJ16Crrq1tReeam?usp=drive_link)
 - [Git 사용법 및 활용방법](<https://github.com/yonggyo1125/lectureETC/tree/master/1.%20%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%20%ED%88%B4(git)>)
 
 ### 도커
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1CCOV436eR23XqoPaymAaV2_YZ5c4EwGH?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_docker)
 
-### 웹표준 예습하기
+### 프론트엔드 프로그래밍 예습
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1DmTgK-UWiSNxWs06YlbSg4WEGgKTcJbI?usp=drive_link)
 
 ## 2. 프론트엔드 프로그래밍
 
 > 리액트 & 타입스크립트 & next.js는 시간이 부족할 수 있으므로 프론트앤드 프로그래밍에서 일부 진행이 되지 않을 수 있으므로, 1,2차 프로젝트 진행 시 오전 시간을 할애하여 심화 수업이 진행되며 오후에는 프로젝트를 진행합니다.
 
 - 2001020225_23v6 / 화면구현(80시간)
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/129TP6lVGHN5ETYO3lXuzYnyMcXScU_6d?usp=drive_link)
 
 
 - HTML + CSS
@@ -58,7 +58,7 @@
 
 - 2001020413_19v4 / SQL활용(32시간)
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1oRFRgB8Yl4oO2QzmJGLl1HauYwl8ldsc?usp=drive_link)
 - [SQL 실습환경 구성, 데이터 정의어(DDL), 데이터 조작어(DML)](https://github.com/yonggyo1125/curriculum300H/tree/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(12%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20SQL%20%EC%8B%A4%EC%8A%B5%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EC%9D%98%EC%96%B4(DDL)%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91%EC%96%B4(DML))
 - [데이터 조작어(DML)](https://github.com/yonggyo1125/curriculum300H/tree/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(12%EC%8B%9C%EA%B0%84)/2%EC%9D%BC%EC%B0%A8(3h)%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91%EC%96%B4(DML))
 - [내장함수,부속질의,뷰](https://github.com/yonggyo1125/curriculum300H/tree/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(12%EC%8B%9C%EA%B0%84)/3%EC%9D%BC%EC%B0%A8(3h)%20-%20%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98%2C%20%EB%B6%80%EC%86%8D%EC%A7%88%EC%9D%98%2C%20%EB%B7%B0)
@@ -72,7 +72,7 @@
 
 ### 4. 자바 기초
 
-- [강의동영상](https://drive.google.com/drive/folders/1R8MQH07cODG_9NQ03J25uiEAr7T7dV5q?usp=drive_link)
+- [강의동영상](https://drive.google.com/drive/folders/1AQBqAolrb1TA7sFav_pREbb3W90ZSsrO?usp=drive_link)
 - [01 실습환경 구축,변수와 자료형](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%8B%A4%EC%8A%B5%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%2C%EB%B3%80%EC%88%98%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95>)
 - [02 연산자, 조건문, 반복문](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/2~3%EC%9D%BC%EC%B0%A8(6h)%20-%20%EC%97%B0%EC%82%B0%EC%9E%90%2C%20%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%20%EB%B0%98%EB%B3%B5%EB%AC%B8>)
 - [03 배열](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/4%EC%9D%BC%EC%B0%A8(3h)%20-%20%EB%B0%B0%EC%97%B4>)
@@ -96,7 +96,7 @@
 > 할당된 시간이 부족할 수 있으므로 JSP는 스프링을 진행하기전 꼭 알아야 하는 내용 중심으로 진행이 됩니다. 일부 단원은 진행되지 않을 수 있습니다.
 > 현장에서는 필요할 수 있는 자료이므로 필요할떄마다 꼭 참고하시기 바랍니다.
 
-- [강의동영상](https://drive.google.com/drive/folders/1P8sux4Mwub4j17PLB7u42WjXJbD4uv3y?usp=drive_link)
+- [강의동영상](https://drive.google.com/drive/folders/1USVv0KFE7-QLT2ezxB9rW0xMfuEB7ce6?usp=drive_link)
 - [00 메이븐(Maven), 그래이들(Gradle) 사용법](<https://github.com/yonggyo1125/lecture_spring/tree/master/2.%20%EB%A9%94%EC%9D%B4%EB%B8%90(Maven)%2C%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4(Gradle)%20%EC%82%AC%EC%9A%A9%EB%B2%95>)
 - [01 개발환경 구축, 웹 기초, 서블릿(Servlet)](<https://github.com/yonggyo1125/curriculum300H/tree/main/4.Servlet%20%26%20JSP1(21%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%2C%20%EC%9B%B9%20%EA%B8%B0%EC%B4%88%2C%20%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)>)
 - [02 JSP의 특징, JSP의 페이지 처리과정, JSP의 생명주기, 스크립트 태그, 디렉티브 태그, 주석처리](<https://github.com/yonggyo1125/curriculum300H/tree/main/4.Servlet%20%26%20JSP1(21%EC%8B%9C%EA%B0%84)/2%EC%9D%BC%EC%B0%A8(3h)%20-%20JSP%EC%9D%98%20%ED%8A%B9%EC%A7%95%2C%20JSP%EC%9D%98%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%B2%98%EB%A6%AC%EA%B3%BC%EC%A0%95%2C%20JSP%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%2C%20%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%83%9C%EA%B7%B8%2C%20%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C%20%ED%83%9C%EA%B7%B8%2C%20%EC%A3%BC%EC%84%9D%EC%B2%98%EB%A6%AC>)
@@ -116,7 +116,7 @@
 ### 6. 스프링 기초
 
 - 교재: 초보 웹 개발자를 위한 스프링5 프로그래밍 입문 / 가메출판사
-- [강의동영상](https://drive.google.com/drive/folders/1vrMB7VuI8d7ionP5y4ESw1jrEXFg8Lko?usp=drive_link)
+- [강의동영상](https://drive.google.com/drive/folders/1jJDnemV5_2GSClHrb-xy_CuLXaCD4B__?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_spring)
 - [01 개발환경 구축](https://github.com/yonggyo1125/lecture_spring/tree/master/1.%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95)
 - [02 메이븐(Maven), 그래이들(Gradle) 사용법](<https://github.com/yonggyo1125/lecture_spring/tree/master/2.%20%EB%A9%94%EC%9D%B4%EB%B8%90(Maven)%2C%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4(Gradle)%20%EC%82%AC%EC%9A%A9%EB%B2%95>)
@@ -138,7 +138,7 @@
 
 ### 7. 스프링 부트
 
-- [강의동영상](https://drive.google.com/drive/folders/14DNoQ1BEt0_DXPSneFGgOds-LO6D3yZd?usp=drive_link)
+- [강의동영상](https://drive.google.com/drive/folders/1T1UQq5kqEmQZDbyoaZfN6oS6c0osKJHf?usp=drive_link)
 - [01 개발환경 구축 & 스프링 부트 특징](<https://github.com/yonggyo1125/curriculum300H/tree/main/6.Spring%20%26%20Spring%20Boot(75%EC%8B%9C%EA%B0%84)/17~20%EC%9D%BC%EC%B0%A8(21h)%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8>)
 - [02 Spring Data](<https://github.com/yonggyo1125/curriculum300H/tree/main/6.Spring%20%26%20Spring%20Boot(75%EC%8B%9C%EA%B0%84)/17~20%EC%9D%BC%EC%B0%A8(21h)%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/Spring%20Data%20JPA>)
   - Spring Data JDBC
@@ -156,7 +156,7 @@
 ### 교재: Do it! 점프투 파이썬 / 이지스퍼블리싱
 
 - [강의자료](https://github.com/yonggyo1125/lecture_python)
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1lIXzkuWidiFRNa_ftEKdNxHfyaLJl-gb?usp=drive_link)
 - [01 파이썬 프로그래밍의 기초, 자료형](https://github.com/yonggyo1125/lecture_python/tree/master/1.%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88/2.%20%EC%9E%90%EB%A3%8C%ED%98%95)
 - [02 프로그램의 구조를 쌓다는다! 제어문](https://github.com/yonggyo1125/lecture_python/tree/master/2.%20%EC%A0%9C%EC%96%B4%EB%AC%B8)
 - [03 파이썬의 입출력](https://github.com/yonggyo1125/lecture_python/tree/master/3.%20%EC%9E%85%EC%B6%9C%EB%A0%A5)
@@ -167,9 +167,8 @@
 
 ## 9. 핀테크 머신러닝과 딥러닝 이해(120)
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1hO439lM-n5oxLPYiRUu313uyefuPYPC5?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_ml-dl)
-- [강의동영상](https://drive.google.com/drive/folders/1Sk2p9vRqpUGjqZfKCWfT2Po4cxRjv1wN?usp=drive_link)
 - [01 나의 첫 머신러닝](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/01.%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 - [02 데이터 다루기](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 - [03 회귀 알고리즘과 모델 규제](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/03.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C)
@@ -181,7 +180,7 @@
 
 ## 10. 핀테크 대체데이터분석(자연어처리) (80)
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1cdTsE72C88l8xAG01Euv31Yj6rQ5j3CW?usp=drive_link)
 - [강의자료]()
 - [02 자연어 처리 개발 준비]()
 - [03 자연어 처리 개요]()
@@ -193,27 +192,28 @@
 ## 11. 금융 OpenAPI 활용 (48)
 > 금융 OpenAPI는 금융감독원의 승인이 필요하지만 핀테크 관련 사업을 한다는 증빙 및 사업자 등록이 필요한 제한된 API이므로 진행이 불가하여 대체 수업이 진행됩니다. REST에 및 토큰 인증 방식에 대한 심화 과정이 진행됩니다.
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1ou9wYZZ4csQFW8avjJLkROKQaKUK1fOo?usp=drive_link)
 - REST API
 - 카카오 로그인 구현
 
 ## 12. 프로젝트Ⅰ - 클론코딩 (64)
+> 클론 코딩 주제이나 클론 코딩에 한정하지 않고 다양한 주제로 진행될 수 있습니다. 프로젝트I 에서는 웹프로젝트로 진행이 됩니다.
 
-- [강의동영상](https://drive.google.com/drive/folders/1z4jsnbtmqxAHKZV352O9g8WCHKGXui61?usp=drive_link)
+- [강의동영상](https://drive.google.com/drive/folders/1msjaBwqxZYOt1h0vh0EhX_HpKqDFD9aD?usp=drive_link)
 
 ## 13. 프로젝트Ⅱ - 카드상품 추천시스템 구현(200시간)
 > AI관련 프로젝트의 주제는 다양하게 나올 수 있으므로 카드 추천 시스템으로 한정하지 않고 다양한 주제로 진행합니다.<br>오전 일과에는 보충학습으로 수업이 진행될수 있습니다. 1. 젠킨스, AWS 활용 CI/CD 구축<br>2. 스프링 클라우드<br>3. DJANGO REST FRAMEWORK<br>오후 일과는 프로젝트 진행
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1BvHv4dChdj7wdhXxd6DM0vD12IT4mn_K?usp=drive_link)
 
 ## 보충학습 - 타입스크립트
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1JiXUpm8Y9jKB10Pjk7OJcFYNpT4oU10d?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_typescript)
 
 ## 보충학습 - 리액트
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1OBAyQx6ti7Js2kPnVEnRu9lOneKTf4IN?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/reactLecture)
   
 - [01 리액트 시작](https://github.com/yonggyo1125/reactLecture/tree/master/0.%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%8B%9C%EC%9E%91)
@@ -236,7 +236,7 @@
   
 ## 보충학습 - 애플리케이션 테스트 수행
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1cfSMHjcUAMjA1tPOnTIzxlaXrMO8_WTL?usp=drive_link)
 - TDD(Test-Driven Development, 테스트 주도 개발)
   - [JUnit5](<https://github.com/yonggyo1125/lectureETC/tree/master/2.%20TDD(Test-Driven%20Development%2C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C)/1.%20JUnit5>)
   - [Mockito](<https://github.com/yonggyo1125/lectureETC/tree/master/2.%20TDD(Test-Driven%20Development%2C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C)/2.%20Mockito>)
@@ -246,13 +246,13 @@
 
 ## 보충학습 - 젠킨스, AWS 활용 CI/CD 구축
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1NLo9sBsxqOKyrXKvewBNiPouWUBgnZLx?usp=drive_link)
 - [01 젠킨스, AWS 활용 CI/CD 구축](https://github.com/yonggyo1125/lecture_cicd)
 
   
 ## 보충학습 - 스프링 클라우드
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1lIbD6XtD_E-JCrmFwubeSb87mf2JXMwj?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_springcloud/tree/master)
 - [01 스프링 클라우드 소개](https://github.com/yonggyo1125/lecture_springcloud/tree/master/1.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%86%8C%EA%B0%9C)
 - [02 도커](https://github.com/yonggyo1125/lecture_springcloud/tree/master/2.%20%EB%8F%84%EC%BB%A4)
@@ -267,7 +267,7 @@
 
 ## 보충학습 - DJANGO REST FRAMEWORK
 
-- [강의동영상]()
+- [강의동영상](https://drive.google.com/drive/folders/1NFn0UQ6mNFmEoH8mcywakwtYXOD03F8V?usp=drive_link)
 - [강의자료]()
 
 ### Django 기본 컨셉 익히기
