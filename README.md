@@ -2,38 +2,43 @@
 
 - 총 시수 : 860시간
 - [훈련생 LMS 로그인](https://koritic.cafe24.com/student/index.php)
-- [강의동영상](https://drive.google.com/drive/folders/149OcwOXJCyntLGngQOzpeHk4R1w2eRPr?usp=drive_link)
+- [강의동영상]()
+- 강사이메일 : yonggyo00@kakao.com
 
-## 1. 형상관리
+## 1. 사전교육
+
+- 오리엔테이션 & 교육과정 안내
+- 나의 학습 시간표
+- 나의 다짐
+
+### 형상관리
 
 - [강의동영상]()
 - [Git 사용법 및 활용방법](<https://github.com/yonggyo1125/lectureETC/tree/master/1.%20%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%20%ED%88%B4(git)>)
 
+### 도커
+
+- [강의동영상]()
+- [강의자료](https://github.com/yonggyo1125/lecture_docker)
+
+### 웹표준 예습하기
+
+- [강의동영상]()
+
 ## 2. 프론트엔드 프로그래밍
 
+> 리액트 & 타입스크립트 & next.js는 시간이 부족할 수 있으므로 프론트앤드 프로그래밍에서 일부 진행이 되지 않을 수 있으므로, 1,2차 프로젝트 진행 시 오전 시간을 할애하여 심화 수업이 진행되며 오후에는 프로젝트를 진행합니다.
+
 - 2001020225_23v6 / 화면구현(80시간)
-- [강의동영상](https://drive.google.com/drive/folders/10ULt5qBEv53zaxz8ORYsuJjQ-yZxsL3r?usp=drive_link)
+- [강의동영상]()
+
 
 - HTML + CSS
 
-  - [강의자료](https://github.com/yonggyo1125/lecture_html_css)
-  - [01 HTML 기본 다지기](https://github.com/yonggyo1125/lecture_html_css/blob/master/01%20HTML%20%EA%B8%B0%EB%B3%B8%20%EB%8B%A4%EC%A7%80%EA%B8%B0)
-  - [02 텍스트 관련 태그들](https://github.com/yonggyo1125/lecture_html_css/tree/master/02%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%ED%83%9C%EA%B7%B8%EB%93%A4)
-  - [03 이미지와 하이퍼링크](https://github.com/yonggyo1125/lecture_html_css/tree/master/03%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A7%81%ED%81%AC)
-  - [04 폼 관련 태그들](https://github.com/yonggyo1125/lecture_html_css/tree/master/04%20%ED%8F%BC%20%EA%B4%80%EB%A0%A8%20%ED%83%9C%EA%B7%B8%EB%93%A4)
-  - [05 CSS 기초](https://github.com/yonggyo1125/lecture_html_css/tree/master/05%20CSS%20%EA%B8%B0%EC%B4%88)
-  - [06 텍스트 관련 스타일](https://github.com/yonggyo1125/lecture_html_css/tree/master/06%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%EC%8A%A4%ED%83%80%EC%9D%BC)
-  - [07 색상과 배경을 위한 스타일](https://github.com/yonggyo1125/lecture_html_css/tree/master/07%20%EC%83%89%EC%83%81%EA%B3%BC%20%EB%B0%B0%EA%B2%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC)
-  - [08 CSS 박스 모델](https://github.com/yonggyo1125/lecture_html_css/tree/master/08%20CSS%20%EB%B0%95%EC%8A%A4%20%EB%AA%A8%EB%8D%B8)
-  - [09 CSS 레이아웃](https://github.com/yonggyo1125/lecture_html_css/tree/master/09%20CSS%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)
-  - [10 HTML5와 시멘틱 태그](https://github.com/yonggyo1125/lecture_html_css/tree/master/10%20HTML5%EC%99%80%20%EC%8B%9C%EB%A9%98%ED%8B%B1%20%ED%83%9C%EA%B7%B8)
-  - [11 HTML5와 멜티미디어](https://github.com/yonggyo1125/lecture_html_css/tree/master/11%20HTML5%EC%99%80%20%EB%A9%9C%ED%8B%B0%EB%AF%B8%EB%94%94%EC%96%B4)
-  - [12 다재다능한 CSS 선택자](https://github.com/yonggyo1125/lecture_html_css/tree/master/12%20%EB%8B%A4%EC%9E%AC%EB%8B%A4%EB%8A%A5%ED%95%9C%20CSS%20%EC%84%A0%ED%83%9D%EC%9E%90)
-  - [13 CSS3와 애니메이션](https://github.com/yonggyo1125/lecture_html_css/tree/master/13%20CSS3%EC%99%80%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)
-  - [14 반응형 웹](https://github.com/yonggyo1125/lecture_html_css/tree/master/14%20%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9)
-  - [15 미디어 쿼리](https://github.com/yonggyo1125/lecture_html_css/tree/master/15%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%BF%BC%EB%A6%AC)
-  - [16 플렉스 박스 레이아웃](https://github.com/yonggyo1125/lecture_html_css/tree/master/16%20%ED%94%8C%EB%A0%89%EC%8A%A4%20%EB%B0%95%EC%8A%A4%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)
-
+  - [강의자료](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84))
+  - [HTML](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20HTML)
+  - [CSS](https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/2~3%EC%9D%BC%EC%B0%A8(6h)%20-%20CSS)
+  
 - JavaScript
 
   - [강의자료](<https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)>)
@@ -47,29 +52,17 @@
   - [이벤트 처리](<https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/15%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC>)
   - [비동기 처리(Promise, async ~ await, Ajax)](<https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/16%EC%9D%BC%EC%B0%A8(3h)%20-%20Promise%2C%20XMLHttpRequest%2C%20FileReader%2C%20%EB%93%9C%EB%9E%98%EA%B7%B8%EC%95%A4%EB%93%9C%EB%A1%AD>)
 
-- 평가진행
-
 ---
 
 ## 3. 데이터베이스
 
 - 2001020413_19v4 / SQL활용(32시간)
 
-- 교재: 오라클로 배우는 데이터베이스 입문
-- [강의동영상](https://drive.google.com/drive/folders/1WqCqpNdqiLgf7k3i6cos6eecsFzP7LdF?usp=drive_link)
-- [04 SELECT 문의 기본 형식](https://github.com/yonggyo1125/curriculumOracle/tree/master/04%20SELECT%EB%AC%B8%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20%ED%98%95%EC%8B%9D)
-- [05 더 정확하고 다양하게 결과를 출력하는 WHERE 절과 연산자](https://github.com/yonggyo1125/curriculumOracle/tree/master/05%20%EB%8D%94%20%EC%A0%95%ED%99%95%ED%95%98%EA%B3%A0%20%EB%8B%A4%EC%96%91%ED%95%98%EA%B2%8C%20%EA%B2%B0%EA%B3%BC%EB%A5%BC%20%EC%B6%9C%EB%A0%A5%ED%95%98%EB%8A%94%20WHERE%EC%A0%88%EA%B3%BC%20%EC%97%B0%EC%82%B0%EC%9E%90)
-- [06 데이터 처리와 가공을 위한 오라클 함수](https://github.com/yonggyo1125/curriculumOracle/tree/master/06%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%98%EB%A6%AC%EC%99%80%20%EA%B0%80%EA%B3%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%98%A4%EB%9D%BC%ED%81%B4%20%ED%95%A8%EC%88%98)
-- [07 다중행 함수와 데이터 그룹화](https://github.com/yonggyo1125/curriculumOracle/tree/master/07%20%EB%8B%A4%EC%A4%91%ED%96%89%20%ED%95%A8%EC%88%98%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B7%B8%EB%A3%B9%ED%99%94)
-- [08 여러 테이블을 하나의 테이블처럼 사용하는 조인](https://github.com/yonggyo1125/curriculumOracle/tree/master/08%20%EC%97%AC%EB%9F%AC%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84%20%ED%95%98%EB%82%98%EC%9D%98%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%B2%98%EB%9F%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%A1%B0%EC%9D%B8)
-- [09 SQL 문 속 또 다른 SQL문, 서브쿼리](https://github.com/yonggyo1125/curriculumOracle/tree/master/09%20SQL%20%EB%AC%B8%20%EC%86%8D%20%EB%98%90%20%EB%8B%A4%EB%A5%B8%20SQL%EB%AC%B8%2C%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC)
-- [10 데이터를 추가, 수정, 삭제하는 데이터 조작어](https://github.com/yonggyo1125/curriculumOracle/tree/master/10%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%B6%94%EA%B0%80%2C%20%EC%88%98%EC%A0%95%2C%20%EC%82%AD%EC%A0%9C%ED%95%98%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91%EC%96%B4)
-- [11 트랜잭션 제어와 세션](https://github.com/yonggyo1125/curriculumOracle/tree/master/11%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EC%A0%9C%EC%96%B4%EC%99%80%20%EC%84%B8%EC%85%98)
-- [12 데이터 정의어](https://github.com/yonggyo1125/curriculumOracle/tree/master/12%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EC%9D%98%EC%96%B4)
-- [13 객체 종류](https://github.com/yonggyo1125/curriculumOracle/tree/master/13%20%EA%B0%9D%EC%B2%B4%20%EC%A2%85%EB%A5%98)
-- [14 제약 조건](https://github.com/yonggyo1125/curriculumOracle/tree/master/14%20%EC%A0%9C%EC%95%BD%20%EC%A1%B0%EA%B1%B4)
-
-- 평가 진행
+- [강의동영상]()
+- [SQL 실습환경 구성, 데이터 정의어(DDL), 데이터 조작어(DML)](https://github.com/yonggyo1125/curriculum300H/tree/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(12%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20SQL%20%EC%8B%A4%EC%8A%B5%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EC%9D%98%EC%96%B4(DDL)%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91%EC%96%B4(DML))
+- [데이터 조작어(DML)](https://github.com/yonggyo1125/curriculum300H/tree/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(12%EC%8B%9C%EA%B0%84)/2%EC%9D%BC%EC%B0%A8(3h)%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91%EC%96%B4(DML))
+- [내장함수,부속질의,뷰](https://github.com/yonggyo1125/curriculum300H/tree/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(12%EC%8B%9C%EA%B0%84)/3%EC%9D%BC%EC%B0%A8(3h)%20-%20%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98%2C%20%EB%B6%80%EC%86%8D%EC%A7%88%EC%9D%98%2C%20%EB%B7%B0)
+- [인덱스, 프로시저, 트리거, 사용자 정의함수](https://github.com/yonggyo1125/curriculum300H/tree/main/3.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4(12%EC%8B%9C%EA%B0%84)/4%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%2C%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80%2C%20%ED%8A%B8%EB%A6%AC%EA%B1%B0%2C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EC%9D%98%ED%95%A8%EC%88%98)
 
 ---
 
@@ -95,11 +88,13 @@
 - [09 스트림](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/19%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%8A%A4%ED%8A%B8%EB%A6%BC>)
 - [10 쓰레드](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/17%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%93%B0%EB%A0%88%EB%93%9C>)
 - [11 입출력(IO)](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/20~21%EC%9D%BC%EC%B0%A8(6h)%20-%20%EC%9E%85%EC%B6%9C%EB%A0%A5(IO)>)
-- 평가 진행
 
 2001020211_23v6 / 서버프로그램 구현(80시간)
 
 ### 5. JSP 기초
+
+> 할당된 시간이 부족할 수 있으므로 JSP는 스프링을 진행하기전 꼭 알아야 하는 내용 중심으로 진행이 됩니다. 일부 단원은 진행되지 않을 수 있습니다.
+> 현장에서는 필요할 수 있는 자료이므로 필요할떄마다 꼭 참고하시기 바랍니다.
 
 - [강의동영상](https://drive.google.com/drive/folders/1P8sux4Mwub4j17PLB7u42WjXJbD4uv3y?usp=drive_link)
 - [00 메이븐(Maven), 그래이들(Gradle) 사용법](<https://github.com/yonggyo1125/lecture_spring/tree/master/2.%20%EB%A9%94%EC%9D%B4%EB%B8%90(Maven)%2C%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4(Gradle)%20%EC%82%AC%EC%9A%A9%EB%B2%95>)
@@ -173,31 +168,32 @@
 
 - [강의동영상](https://drive.google.com/drive/folders/19jNr0_C6alsX5AZxaiIKr7L0b9SIElx_?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_ml-dl)
-- 핀테크 머신러닝 이해
-  - [01 나의 첫 머신러닝](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/01.%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
-  - [02 데이터 다루기](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0)
-  - [03 회귀 알고리즘과 모델 규제](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/03.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C)
-  - [04 다양한 분류 알고리즘](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/04.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- 핀테크 딥러닝 이해
-  - [07-1 인공신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4/07-1.%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
-  - [07-2 심층신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4/07-2.%20%EC%8B%AC%EC%B8%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
-  - [07-3 신경망 모델 훈련](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4/07-3.%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%AA%A8%EB%8D%B8%20%ED%9B%88%EB%A0%A8)
-- 핀테크 추천시스템 이해
+- [강의동영상](https://drive.google.com/drive/folders/1Sk2p9vRqpUGjqZfKCWfT2Po4cxRjv1wN?usp=drive_link)
+- [01 나의 첫 머신러닝](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/01.%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+- [02 데이터 다루기](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0)
+- [03 회귀 알고리즘과 모델 규제](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/03.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C)
+- [04 다양한 분류 알고리즘](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/04.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [06 비지도 학습](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/06.%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5)
+- [07 딥러닝을 시작합니다](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [08 이미지를 위한 인공신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/08.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
+- [09 텍스트를 위한 인공 신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/09.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
 
 ## 10. 핀테크 대체데이터분석(자연어처리) (80)
 
-- [강의동영상](https://drive.google.com/drive/folders/1Rgci5aVVZUI01dhpSh4gTXPFl7h1wrts?usp=drive_link)
-- [강의자료](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC)
-- [01 자연어 처리란?](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/01.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EB%9E%80%3F)
-- [02 자연어 처리를 위한 기초지식](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/02.%20%EC%9E%90%EC%96%B8%EC%96%B4%20%EC%B2%98%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D)
-- [03 언어 모델](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/03.%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Language%20Modeling))
-- [07 BERT - BERT의 원리와 기본사용법](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC/07.%20BERT%20-%20BERT%EC%9D%98%20%EC%9B%90%EB%A6%AC%EC%99%80%20%EA%B8%B0%EB%B3%B8%EC%82%AC%EC%9A%A9%EB%B2%95)
-- [네이버 후기 bert](https://drive.google.com/drive/folders/1OfoGupdUf7PedV9-fAyhGcxYaPeKwfWC?usp=sharing)
+- [강의동영상]()
+- [강의자료]()
+- [02 자연어 처리 개발 준비]()
+- [03 자연어 처리 개요]()
+- [04 텍스트 분류]()
+- [05 텍스트 유사도]()
+- [06 챗봇 만들기]()
+- [07 사전학습 모델]()
 
 ## 11. 금융 OpenAPI 활용 (48)
+> 금융 OpenAPI는 금융감독원의 승인이 필요하지만 핀테크 관련 사업을 한다는 증빙 및 사업자 등록이 필요한 제한된 API이므로 진행이 불가하여 대체 수업이 진행됩니다. REST에 및 토큰 인증 방식에 대한 심화 과정이 진행됩니다.
 
-- [강의동영상](https://drive.google.com/drive/folders/1eTtnxPCYNZrRtpgO2-zb4lv2Fy_0yTDi?usp=drive_link)
-- [금융결제원 오픈 API](https://developers.kftc.or.kr/dev)
+- [강의동영상]()
+- REST API
 - 카카오 로그인 구현
 
 ## 12. 프로젝트Ⅰ - 클론코딩 (64)
@@ -205,8 +201,9 @@
 - [강의동영상](https://drive.google.com/drive/folders/1z4jsnbtmqxAHKZV352O9g8WCHKGXui61?usp=drive_link)
 
 ## 13. 프로젝트Ⅱ - 카드상품 추천시스템 구현(200시간)
+> AI관련 프로젝트의 주제는 다양하게 나올 수 있으므로 카드 추천 시스템으로 한정하지 않고 다양한 주제로 진행합니다.<br>오전 일과에는 보충학습으로 수업이 진행될수 있습니다. 1. 젠킨스, AWS 활용 CI/CD 구축<br>2. 스프링 클라우드<br>3. DJANGO REST FRAMEWORK<br>오후 일과는 프로젝트 진행
 
-- [강의동영상](https://drive.google.com/drive/folders/1ea2shyNsdspnb4BnlRxpWdEWB6rxjM2Z?usp=drive_link)
+- [강의동영상]()
 
 ## 보충학습 - 타입스크립트
 
@@ -215,7 +212,7 @@
 
 ## 보충학습 - 리액트
 
-- [강의동영상](https://drive.google.com/drive/folders/1cO46KHCMgPGbU3ycK3VfsJnwyJq_k_Cz?usp=drive_link)
+- [강의동영상]()
 
 - 리액트 기초
 - [강의자료](https://github.com/yonggyo1125/reactLecture)
@@ -236,10 +233,11 @@
 - [14 리덕스 라이브러리 이해하기](https://github.com/yonggyo1125/reactLecture/tree/master/15.%20%EB%A6%AC%EB%8D%95%EC%8A%A4%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - [15 리덕스를 사용하여 리액트 애플리케이션 상태 관리하기](https://github.com/yonggyo1125/reactLecture/tree/master/16.%20%EB%A6%AC%EB%8D%95%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 - [16 코드스플리팅](https://github.com/yonggyo1125/reactLecture/tree/master/17.%20%EC%BD%94%EB%93%9C%20%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85)
-
+- [17 Next.js](https://nextjs.org/docs)
+  
 ## 보충학습 - 애플리케이션 테스트 수행
 
-- [강의동영상](https://drive.google.com/drive/folders/18jCOVl8hW6leZbBCRBJffmT59Fh5gXhI?usp=drive_link)
+- [강의동영상]()
 - TDD(Test-Driven Development, 테스트 주도 개발)
   - [JUnit5](<https://github.com/yonggyo1125/lectureETC/tree/master/2.%20TDD(Test-Driven%20Development%2C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C)/1.%20JUnit5>)
   - [Mockito](<https://github.com/yonggyo1125/lectureETC/tree/master/2.%20TDD(Test-Driven%20Development%2C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C)/2.%20Mockito>)
@@ -249,16 +247,13 @@
 
 ## 보충학습 - 젠킨스, AWS 활용 CI/CD 구축
 
-- [강의동영상](https://drive.google.com/drive/folders/1_MlkM7JOKS_sP63qNJ7CrktREWERcFnt?usp=drive_link)
+- [강의동영상]()
 - [01 젠킨스, AWS 활용 CI/CD 구축](https://github.com/yonggyo1125/lecture_cicd)
 
-## 보충학습 - 도커
-- [강의동영상](https://drive.google.com/drive/folders/1LM2ySNq_ACBBJt6kmvTDeZT2lXf7DXW_?usp=drive_link)
-- [강의자료](https://github.com/yonggyo1125/lecture_docker)
   
 ## 보충학습 - 스프링 클라우드
 
-- [강의동영상](https://drive.google.com/drive/folders/1UvMRctxc28QOnMlKEGZeEPHu2o2LLZYL?usp=drive_link)
+- [강의동영상]()
 - [강의자료](https://github.com/yonggyo1125/lecture_springcloud/tree/master)
 - [01 스프링 클라우드 소개](https://github.com/yonggyo1125/lecture_springcloud/tree/master/1.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%86%8C%EA%B0%9C)
 - [02 도커](https://github.com/yonggyo1125/lecture_springcloud/tree/master/2.%20%EB%8F%84%EC%BB%A4)
@@ -270,3 +265,31 @@
 - [08 스프링 클라우드 스트림을 사용한 이벤트 기반 아키텍쳐](https://github.com/yonggyo1125/lecture_springcloud/tree/master/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EA%B8%B0%EB%B0%98%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
 - [09 스프링 클라우드 솔루스와 집킨을 이용한 분산 추적](https://github.com/yonggyo1125/lecture_springcloud/tree/master/9.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%86%94%EB%A3%A8%EC%8A%A4%EC%99%80%20%EC%A7%91%ED%82%A8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%B6%84%EC%82%B0%20%EC%B6%94%EC%A0%81)
 - [10 마이크로서비스 배포](https://github.com/yonggyo1125/lecture_springcloud/tree/master/10.%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%B0%B0%ED%8F%AC)
+
+## 보충학습 - DJANGO REST FRAMEWORK
+
+- [강의동영상]()
+- [강의자료]()
+
+### Django 기본 컨셉 익히기
+
+- [01 Django 시작하기]()
+- [02 Django 프로젝트 구조 살펴보기]()
+- [03 Django Model 알아보기]()
+- [04 Django Template 알아보기]()
+- [05 Django View URL 알아보기]()
+
+### Django REST Framework 컨셉 익히기
+
+- [01 Django REST Framework 시작하기]()
+- [02 Django REST Framework 프로젝트 구조 살펴보기]()
+- [03 Django REST Framework 기초 개념 살펴보기]()
+- [04 Django REST Framework 심화 개념 보충하기]()
+
+## 보충학습 - 이미지 처리
+[01 기본 개념과 도구]()
+[02 이미지 처리 기초]()
+[03 인공지능과 이미지 처리]()
+[04 이미지 분류]()
+[05 객체 탐지]()
+[06 이미지 생성]()
