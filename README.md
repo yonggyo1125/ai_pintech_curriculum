@@ -25,6 +25,7 @@
 
 - [강의동영상](https://drive.google.com/drive/folders/1CCOV436eR23XqoPaymAaV2_YZ5c4EwGH?usp=drive_link)
 - [강의자료](https://github.com/yonggyo1125/lecture_docker)
+- [리눅스 기본명령어](https://github.com/yonggyo1125/curriculumLinux/tree/master/Linux1/5~6%EC%9D%BC%EC%B0%A8(6h)%20-%20%EB%A6%AC%EB%88%85%EC%8A%A4%20%EA%B8%B0%EB%B3%B8%20%EB%AA%85%EB%A0%B9%EC%96%B4)
 
 ### 프론트엔드 프로그래밍 예습
 
