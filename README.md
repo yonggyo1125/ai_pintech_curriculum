@@ -12,7 +12,8 @@
 
 ## 1. 사전교육
 
-- 오리엔테이션 & 교육과정 안내
+### 오리엔테이션 & 교육과정 안내
+- [강의동영상](https://drive.google.com/drive/folders/1iaI4TzXWiZQY0fn1Yhmz7TPr4HcC5GJo?usp=drive_link)
 
 > 형상관리 & 도커는 과정 내내 사용하게 될 도구 이므로 사전 교육을 참여하지 않은 훈련생들은 하기 녹화된 동영상 강의를 시청하여 꼭 익혀 주시기 바랍니다.
 
