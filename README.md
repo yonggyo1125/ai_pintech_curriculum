@@ -59,6 +59,11 @@
   - [이벤트 처리](<https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/15%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC>)
   - [비동기 처리(Promise, async ~ await, Ajax)](<https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/16%EC%9D%BC%EC%B0%A8(3h)%20-%20Promise%2C%20XMLHttpRequest%2C%20FileReader%2C%20%EB%93%9C%EB%9E%98%EA%B7%B8%EC%95%A4%EB%93%9C%EB%A1%AD>)
 
+- 프론트앤드 조별 스터디 과제
+> 조별 스터디 과제는 조별로 학습해야 할 예시 소스입니다. 실제 4월 14일 조별 구현 평가에서는 비슷한 데이터를 등록,수정,조회, 삭제의 기능이 포함된 다른 주제를 정해서 만들게 됩니다.<br>모범 사례의 예를 충분히 숙지하여 평가에 임하시면 됩니다.
+    - [Todo 리스트 만들기](https://github.com/yonggyo1125/frontend_todo)
+  
+   
 ---
 
 ## 3. 데이터베이스
