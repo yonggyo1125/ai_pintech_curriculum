@@ -194,12 +194,7 @@
 
 - [강의동영상](https://drive.google.com/drive/folders/1cdTsE72C88l8xAG01Euv31Yj6rQ5j3CW?usp=drive_link)
 - [09 텍스트를 위한 인공 신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/09.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
-- [02 자연어 처리 개발 준비]()
-- [03 자연어 처리 개요]()
-- [04 텍스트 분류]()
-- [05 텍스트 유사도]()
-- [06 챗봇 만들기]()
-- [07 사전학습 모델]()
+- [10 언어모델을 위한 신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/10.%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
 
 ## 11. 금융 OpenAPI 활용 (48)
 > 금융 OpenAPI는 금융감독원의 승인이 필요하며 핀테크 관련 사업을 한다는 증빙 및 사업자 등록이 필요한 제한된 API이므로 진행이 불가하여 대체 수업이 진행됩니다. REST에 및 토큰 인증 방식에 대한 심화 과정이 진행됩니다.
