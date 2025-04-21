@@ -189,12 +189,11 @@
 - [06 비지도 학습](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/06.%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5)
 - [07 딥러닝을 시작합니다](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [08 이미지를 위한 인공신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/08.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
-- [09 텍스트를 위한 인공 신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/09.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
 
 ## 10. 핀테크 대체데이터분석(자연어처리) (80)
 
 - [강의동영상](https://drive.google.com/drive/folders/1cdTsE72C88l8xAG01Euv31Yj6rQ5j3CW?usp=drive_link)
-- [강의자료]()
+- [09 텍스트를 위한 인공 신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/09.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
 - [02 자연어 처리 개발 준비]()
 - [03 자연어 처리 개요]()
 - [04 텍스트 분류]()
