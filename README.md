@@ -102,6 +102,9 @@
 - [10 쓰레드](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/17%EC%9D%BC%EC%B0%A8(3h)%20-%20%EC%93%B0%EB%A0%88%EB%93%9C>)
 - [11 입출력(IO)](<https://github.com/yonggyo1125/curriculum300H/tree/main/1.JAVA(84%EC%8B%9C%EA%B0%84)/20~21%EC%9D%BC%EC%B0%A8(6h)%20-%20%EC%9E%85%EC%B6%9C%EB%A0%A5(IO)>)
 
+- 보강
+    - [20250424](https://drive.google.com/drive/folders/1rQzgyRETyv4wGR7ew7ADOr02HGyH7_I_?usp=drive_link)
+
 2001020211_23v6 / 서버프로그램 구현(80시간)
 
 ### 5. JSP 기초
