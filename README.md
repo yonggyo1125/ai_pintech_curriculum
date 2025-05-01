@@ -109,6 +109,10 @@
     - [20250429](https://drive.google.com/drive/folders/1Q0jjkoxfoR0C8gO-GNSZopPIfy61LTN5?usp=drive_link)
     - [20250430](https://drive.google.com/drive/folders/1sws1gO3EwJ--4lR2qVNh7K_TRfwSYSQl?usp=drive_link)
 
+- 평가 주제 : [콘솔 프로그램으로 게시판 만들기](https://github.com/yonggyo1125/console_board)
+  - [동영상 강의]()
+  - 5/7일 평가 당일에는 사전학습을 통해 파악된 소스를 바탕으로 상기 레포지토리 소스를 베이스로 간단한 게시판을 구성합니다(CRUD).  
+
 2001020211_23v6 / 서버프로그램 구현(80시간)
 
 ### 5. JSP 기초
