@@ -108,6 +108,7 @@
     - [20250428](https://drive.google.com/drive/folders/15of0ysRfVi-tIsDWFGFcoqMePcNZmp9E?usp=drive_link)
     - [20250429](https://drive.google.com/drive/folders/1Q0jjkoxfoR0C8gO-GNSZopPIfy61LTN5?usp=drive_link)
     - [20250430](https://drive.google.com/drive/folders/1sws1gO3EwJ--4lR2qVNh7K_TRfwSYSQl?usp=drive_link)
+    - [20250507](https://drive.google.com/drive/folders/14Km1uFsO-ZITRvGV2HFLI2sf-dyISOLi?usp=drive_link)
 
 - 평가 주제 : [콘솔 프로그램으로 게시판 만들기](https://github.com/yonggyo1125/console_board)
 - [동영상 강의](https://drive.google.com/drive/folders/16x7PE1Bjx6F534pnmlZs9YUolTLlgTJb?usp=drive_link)
