@@ -142,6 +142,7 @@
   - [20250513](https://drive.google.com/drive/folders/1sdeBi21O-b1nngL-hjDTZlKgXNLthwZr?usp=drive_link)
   - [20250514](https://drive.google.com/drive/folders/1Fd7jkLsvxG4VHi4xiptKjEPVRAd7Ixkx?usp=drive_link)
   - [20250515](https://drive.google.com/drive/folders/1LNhoFSRoTN6aAqyGFACwu5x2S7GBEq_y?usp=drive_link)
+  - [20250516](https://drive.google.com/drive/folders/1XWxfi4BxJwA1rVuHs1slQL36hx_2pOAA?usp=drive_link)
      
 ### 6. 스프링 기초
 
