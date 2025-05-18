@@ -166,6 +166,8 @@
 - [15 파일 업로드(MultipartFile)](<https://github.com/yonggyo1125/lecture_spring/tree/master/15.%20%ED%8C%8C%EC%9D%BC%20%EC%97%85%EB%A1%9C%EB%93%9C(MultipartFile)>)
 - [16 프로필과 프로퍼티 파일](https://github.com/yonggyo1125/lecture_spring/tree/master/16.%20%ED%94%84%EB%A1%9C%ED%95%84%EA%B3%BC%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%ED%8C%8C%EC%9D%BC)
 - [17 JSON 응답과 요청 처리](https://github.com/yonggyo1125/lecture_spring/tree/master/17.%20JSON%20%EC%9D%91%EB%8B%B5%EA%B3%BC%20%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC)
+- 보강
+    - [20250519 - 타임리프](https://drive.google.com/drive/folders/1x49uV9l_h7C7IyPtKRm3JXADws4QTAhm?usp=drive_link) 
 
 ### 7. 스프링 부트
 
