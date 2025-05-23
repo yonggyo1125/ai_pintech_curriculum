@@ -182,7 +182,8 @@
 - [04 Spring Security + JWT로 인증 인가 구현하기](https://github.com/yonggyo1125/jwt_with_security)
 - [05 SWAGGER API 적용하기](https://github.com/yonggyo1125/lectureETC/blob/master/SWAGGER-API.md)
 - 평가 진행
-
+- [중고거래게시판 - 조별평가](https://drive.google.com/drive/folders/1JWxzr3zexaPY2CRPssjWFg-_5EyHvNgR?usp=drive_link)
+  
 ## 8. 데이터 분석을 위한 Python
 
 2001020230_23v5 / 프로그래밍 언어 응용(56시간)
