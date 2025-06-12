@@ -208,6 +208,7 @@
 - [02 데이터 다루기](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 - [03 회귀 알고리즘과 모델 규제](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/03.%20%ED%9A%8C%EA%B7%80%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AA%A8%EB%8D%B8%20%EA%B7%9C%EC%A0%9C)
 - [04 다양한 분류 알고리즘](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/04.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B6%84%EB%A5%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [05 트리 알고리즘](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/05.%20%ED%8A%B8%EB%A6%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [06 비지도 학습](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/06.%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5)
 - [07 딥러닝을 시작합니다](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/07.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%8B%9C%EC%9E%91%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [08 이미지를 위한 인공신경망](https://github.com/yonggyo1125/lecture_ml-dl/tree/master/08.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D)
